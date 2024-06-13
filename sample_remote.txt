@@ -1,0 +1,1 @@
+This is a file to test that commit to local repository is going to remote repository.
